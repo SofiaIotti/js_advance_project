@@ -32,10 +32,10 @@ Title and Author will be displayed; completing the available information will be
 🇮🇹 Ricerca per categoria "love". |
 🇬🇧 Search for "love" category.
 
-![image](https://github.com/user-attachments/assets/0da59874-eb09-4184-bcb3-be4cbe36c6a6)
+![image](https://github.com/user-attachments/assets/c83ce762-f454-4b27-ac49-bd5286c091d8)
 
 🇮🇹 Aprendo la tendina, viene mostrata la descrizione dell'opera. |
 🇬🇧 Opening the drop-down, the description of the work is shown.
 
-![image](https://github.com/user-attachments/assets/94848977-02b0-4cb0-8d81-dbccad768338)
+![image](https://github.com/user-attachments/assets/6533fbb0-abf1-4284-a5cb-a3c34d81a5f4)
 
