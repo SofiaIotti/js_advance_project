@@ -1,6 +1,6 @@
 **JavaScript Advanced Project - Start2Impact University**
 
-**LINK TO THE PROJECT:** https://libreriaonlinejavascript.netlify.app
+**LINK TO THE PROJECT:**  **https://libreriaonlinejavascript.netlify.app**
 
 **Sul progetto**
 IT 🇮🇹
@@ -32,10 +32,10 @@ Title and Author will be displayed; completing the available information will be
 🇮🇹 Ricerca per categoria "love".
 🇬🇧 Search for "love" category.
 
-!(https://github.com/user-attachments/assets/0da59874-eb09-4184-bcb3-be4cbe36c6a6)
+![image](https://github.com/user-attachments/assets/0da59874-eb09-4184-bcb3-be4cbe36c6a6)
 
 🇮🇹 Aprendo la tendina, viene mostrata la descrizione dell'opera.
 🇬🇧 Opening the drop-down, the description of the work is shown.
 
-!(https://github.com/user-attachments/assets/94848977-02b0-4cb0-8d81-dbccad768338)
+![image](https://github.com/user-attachments/assets/94848977-02b0-4cb0-8d81-dbccad768338)
 
