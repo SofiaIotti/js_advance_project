@@ -1,7 +1,7 @@
 **JavaScript Advanced Project - Start2Impact University
 **
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/sofia-iotti-8052ab213/ [https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/SofiaIotti) 
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+https://www.linkedin.com/in/sofia-iotti-8052ab213/ [https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/SofiaIotti) 
 LINK TO THE PROJECT: https://libreriaonlinejavascript.netlify.app
 
 **Sul progetto **
