@@ -8,7 +8,7 @@ IT 🇮🇹
 Il progetto conclude il corso Javascript Advanced seguito con Start2Impact University.
 L’obiettivo era quello di creare una web app che incentivasse la lettura di libri attraverso la creazione di una risorsa di ricerca per categorie.
 
-La ricerca sarà effettuata partendo dalla base dati Open Library di Internet Archive, mettendo a disposizoine dell'utente un elenco di libri secondo la categoria cercata.
+La ricerca sarà effettuata partendo dalla base dati [Open Library di Internet Archive](https://openlibrary.org/), mettendo a disposizoine dell'utente un elenco di libri secondo la categoria cercata.
 Saranno esposti Titolo  e Autore; completa le informazioni disponibili la descrizione dell'opera, visualizzabile aprendo una tendina.
 
 **About the project**
@@ -17,7 +17,7 @@ EN 🇬🇧
 The project ends the Javascript Advanced course taken with Start2Impact University.
 The goal was to create a web app that would encourage book reading through the creation of a search resource by category.
 
-The search will be carried out from the Internet Archive Open Library database, making available to the user a list of books according to the searched category.
+The search will be carried out from the [Open Library by Internet Archive](https://openlibrary.org/) database, making available to the user a list of books according to the searched category.
 Title and Author will be displayed; completing the available information will be the description of the work, which can be viewed by opening a drop-down.
 
 **Built with**
