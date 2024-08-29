@@ -1,1 +1,1 @@
-# js_advance_project
+JavaScript Advanced Project - Start2Impact University
