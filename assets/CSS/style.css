@@ -69,7 +69,6 @@ h2 {
 }
 .book {
   border-bottom: 1px solid #cdc2a5;
-  padding: 10px 0 10px 0;
 }
 .titleElement {
   display: flex;
@@ -100,6 +99,7 @@ h2 {
   border-top: 1px solid #eaeaea;
   margin-top: 10px;
   display: none;
+  background-color: #E1D7C6;
 }
 #loader {
   border: 8px solid #cdc2a5;
@@ -153,6 +153,7 @@ h2 {
   #category {
     margin-bottom: 20px;
     width: 500px;
+    font-size: smaller;
   }
   #searchBtn {
     width: 524px;
