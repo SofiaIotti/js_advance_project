@@ -30,4 +30,5 @@ module.exports = {
     },
     open: true,  
   },
+  mode: 'production',
 };
