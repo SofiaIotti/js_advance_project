@@ -2,7 +2,6 @@
   "name": "progetto_javascript_advanced_sofia_iotti",
   "version": "1.0.0",
   "main": "index.js",
-  "mode": "production",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
